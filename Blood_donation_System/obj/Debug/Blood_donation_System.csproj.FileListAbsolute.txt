@@ -1,0 +1,12 @@
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\bin\Debug\Blood_donation_System.exe.config
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\bin\Debug\Blood_donation_System.exe
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\bin\Debug\Blood_donation_System.pdb
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.csprojAssemblyReference.cache
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.UserLoginSystem.resources
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.Properties.Resources.resources
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.csproj.GenerateResource.cache
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.csproj.CoreCompileInputs.cache
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.exe
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.pdb
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.blood_donation_management.resources
+C:\Users\pranjal\source\repos\Blood_donation_System\Blood_donation_System\obj\Debug\Blood_donation_System.adddonor.resources
